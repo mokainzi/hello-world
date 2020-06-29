@@ -1,7 +1,6 @@
 # hello-world
-A Hello World project following GitHub tutorial
 
 Hello everyone!
 
-mokainzi here, I'm enjoying learning about GitHub and hope to perfect it in no time.
-So far so easy!
+mokainzi here, I'm following along with this GitHub tutorial and am enjoying it.
+So far so easy, so I'm hoping to perfect it in no time! 🤞🏼
