@@ -2,4 +2,4 @@
 
 Hi!
 
-@mokainzi here and this is my first clone.
+My name is Abdullah and I go by @mokainzi.
